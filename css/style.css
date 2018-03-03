@@ -1,0 +1,225 @@
+/*font-family: 'Open Sans', sans-serif;
+font-family: 'Oswald', sans-serif;*/
+@import url('https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700&subset=cyrillic');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,600,700,800&subset=cyrillic');
+body {
+    background-image: url("../images/dark-logs-bg3.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+.container-fluid {
+    margin: 0;
+    padding: 0;
+}
+.row {
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    color: #ffffff;
+    text-align: center;
+    font-size: 3em;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 500;
+    margin: 20px 0 0 0;
+    text-transform: uppercase;
+    letter-spacing: -1px;
+    text-shadow: 2px 2px 0 #000000;
+}
+p {
+    color: #565656;
+    text-align: left;
+    font-size: 1em;
+    font-family: 'Open Sans', sans-serif;
+    margin: 20px 0 40px 0;
+}
+img {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+}
+.logo {
+    width: 220px;
+}
+h2 {
+    color: #25749c;
+    text-align: center;
+    font-size: 2em;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 500;
+    margin: 20px 0 40px 0;
+    text-transform: uppercase;
+    letter-spacing: -1px;
+}
+h3 {
+    color: #00F7FF;
+    font-size: 1.2em;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    font-weight: 600;
+    letter-spacing: -1px;
+}
+.hexagon {
+    width: 80%;
+}
+.headerp {
+    color: #fff;
+    text-align: center;
+}
+.btn-success, .btn-danger, .btn-primary {
+    padding: 20px 0;
+    font-size: 1.3em;
+    font-weight: 300;
+    color: #fff;
+    display: block;
+    margin: 20px auto;
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+    width: 100%;
+    border: 1px solid #fff;
+    transition: .7s;
+}
+.btn-success {
+    background-color: #55388e;
+}
+.btn-danger:hover {
+    background-color: #912824;
+}
+.btn-success:hover {
+    background-color: #3c3673;
+    border: 1px solid #fff;
+}
+.btn-danger:hover,
+.btn-primary:hover {
+    border: 1px solid #fff;
+}
+.opisanie {
+    padding: 30px;
+}
+.red-block {
+    background-color: #0b8414;
+    padding: 40px 0 0;
+    margin: 0;
+}
+.icons {
+    width: 128px;
+}
+.red-block p {
+    color: #fff;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 20px;
+}
+.wite {
+    background-color: #ffffff;
+    padding: 40px 0 0;
+    margin: 0;
+}
+ul {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    font-size: 1.2em;
+    list-style: none;
+}
+li {
+    margin: 0 0 20px 0;
+}
+.fa-desktop {
+    color: #4f8440;
+}
+.fa-lock, .modal-footer p {
+    color: red;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+}
+.predfooter h1 {
+    font-size: 2em;
+}
+.predfooter p {
+    color: #fff;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    text-shadow: 2px 2px 0 #000000;
+}
+.footer {
+    background-color: black;
+    padding: 40px 0;
+    border-top: 1px solid #fff;
+    margin-top: 30px;
+}
+.footer p, .footer a {
+    color: #fff;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    font-size: .8em;
+}
+.footer a {
+    text-decoration: underline;
+}
+.footer a:hover {
+    color: #10ffd8;
+    text-decoration: none;
+}
+.forms input {
+    display: block;
+    margin: 12px auto;
+    width: 90%;
+    padding: 7px;
+    color: #2e6da4;
+    font-size: 1em;
+    font-family: 'Open Sans', sans-serif;
+}
+.forms .form-button {
+    padding: 20px 0;
+    text-transform: uppercase;
+    font-size: 1.5em;
+    text-align: center;
+    background-color: #2e6da4;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+}
+.forms .form-button:hover {
+    background-color: #079c16;
+}
+.modal-body p {
+    text-align: center;
+    font-size: 1.5em;
+    font-weight: 600;
+    margin: 0;
+}
+.close {
+    opacity: 1;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

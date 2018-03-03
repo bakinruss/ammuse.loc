@@ -1,0 +1,45 @@
+@media screen and (max-width: 1200px) {
+
+}
+@media screen and (max-width: 992px) {
+    h1 {
+        font-size: 2.5em;
+    }
+    h2 {
+        font-size: 1.8em;
+    }
+    p {
+        font-size: .9em;
+    }
+    .btn-success, .btn-danger, .btn-primary {
+        font-size: 1.2em;
+        width: 80%;
+    }
+    .red-block p {
+        font-size: 1em;
+    }
+    .forms .form-button {
+        font-size: 1.2em;
+    }
+}
+@media screen and (max-width: 768px) {
+    h1 {
+        font-size: 2em;
+    }
+    h2 {
+        font-size: 1.6em;
+    }
+    p {
+        font-size: .8em;
+    }
+    .btn-success, .btn-danger .btn-primary {
+        font-size: 1.1em;
+    }
+    .red-block p {
+        font-size: 1em;
+    }
+    .forms .form-button {
+        font-size: 1em;
+    }
+}
+
